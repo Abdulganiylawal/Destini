@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "883C71E2-5C47-4D60-9787-AFFC2E1599E7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66C7ED65-E934-4C56-9C65-B00729285E39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "66C7ED65-E934-4C56-9C65-B00729285E39 - 8b229b1d80f9301d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.stories.getter : Destini_iOS13.storyBrain"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawalabdulganiy/Desktop/Programming%20tutorials/Swift/SwiftBasics/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "66C7ED65-E934-4C56-9C65-B00729285E39 - 15855e2fb86a7338"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Destini_iOS13.ViewController"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawalabdulganiy/Desktop/Programming%20tutorials/Swift/SwiftBasics/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "66C7ED65-E934-4C56-9C65-B00729285E39 - 89d3f6b024fbb97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Destini_iOS13.ViewController&gt;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawalabdulganiy/Desktop/Programming%20tutorials/Swift/SwiftBasics/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59FD2E75-7915-43BC-8172-3D69C6F5B30B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
